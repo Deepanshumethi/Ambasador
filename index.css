@@ -124,6 +124,7 @@ a {
 
 #menu_item ul li a {
     font-size: 1vw;
+    scroll-behavior: smooth;
 }
 
 #menu_item ul li a::after {
